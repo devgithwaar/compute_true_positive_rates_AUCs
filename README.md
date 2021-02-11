@@ -1,5 +1,6 @@
 # Compute_true_positive_rates_AUCs
 
+Author: Hui-Heng Lin, PhD
 
 Transforming the confusion matrices to True/False Positive/Negative rates and the values of Area Under Receiver-Operating Characteristic Curve  (AUROC)
 
